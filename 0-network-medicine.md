@@ -82,3 +82,15 @@ MATCH (p:Paper)-[:PAPER_HAS_BODYTEXTCOLLECTION]-(:BodyTextCollection)\
  
  
  ```
+ 
+ ### References
+ 1. https://reactome.org/
+ 2. https://covidgraph.org/
+ 3. https://genome.ucsc.edu/
+ 4. https://icd.who.int/en
+ 5. https://www.uniprot.org/
+ 6. https://www.rcsb.org/
+ 7. https://hmdb.ca/
+ 8. https://uts.nlm.nih.gov/uts/umls/home
+ 9. https://www.ncbi.nlm.nih.gov/projects/genome/guide/human/index.shtml
+ 10. http://networksciencebook.com/
