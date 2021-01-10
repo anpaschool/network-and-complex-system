@@ -94,3 +94,4 @@ MATCH (p:Paper)-[:PAPER_HAS_BODYTEXTCOLLECTION]-(:BodyTextCollection)\
  8. https://uts.nlm.nih.gov/uts/umls/home
  9. https://www.ncbi.nlm.nih.gov/projects/genome/guide/human/index.shtml
  10. http://networksciencebook.com/
+ 11. https://internet-map.net/
