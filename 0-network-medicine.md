@@ -84,15 +84,17 @@ MATCH (p:Paper)-[:PAPER_HAS_BODYTEXTCOLLECTION]-(:BodyTextCollection)\
  ```
  
  ### References
- 1. https://reactome.org/
- 2. https://covidgraph.org/
- 3. https://genome.ucsc.edu/
- 4. https://icd.who.int/en
- 5. https://www.uniprot.org/
- 6. https://www.rcsb.org/
- 7. https://hmdb.ca/
- 8. https://uts.nlm.nih.gov/uts/umls/home
- 9. https://www.ncbi.nlm.nih.gov/projects/genome/guide/human/index.shtml
- 10. http://networksciencebook.com/
- 11. https://internet-map.net/
- 12. https://paperscape.org/
+ 0. Hetionet : https://het.io/
+ 1. Reactome: https://reactome.org/
+ 2. Covidgraph: https://covidgraph.org/
+ 3. Genome Browser USCS: https://genome.ucsc.edu/
+ 4. ICD Codes: https://icd.who.int/en
+ 5. Uniprot: https://www.uniprot.org/
+ 6. PDB: https://www.rcsb.org/
+ 7. Metabolites: https://hmdb.ca/
+ 8. UMLS: https://uts.nlm.nih.gov/uts/umls/home
+ 9. Human genome NCBI: https://www.ncbi.nlm.nih.gov/projects/genome/guide/human/index.shtml
+ 10. Open book on network: http://networksciencebook.com/
+ 11. Internate map : https://internet-map.net/
+ 12. Paperspace: https://paperscape.org/
+ 13. Human Disease network: https://www.pnas.org/content/pnas/104/21/8685/F2.large.jpg
