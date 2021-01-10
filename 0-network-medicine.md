@@ -17,6 +17,8 @@ MATCH (d:Disease)--(g:Gene) RETURN d.name,collect(g.name)
 4. Count gene and pathways for each diseases
 ```
 MATCH (d:Disease)--(g:Gene)--(p:Pathway) RETURN d.name,count(g.name),count(p.name)
+MATCH path =(d:Disease)--(g:Gene)--(p:Pathway) RETURN path LIMIT 100
+
 ```
 5. Count and collect associated compound with disease
 ```
