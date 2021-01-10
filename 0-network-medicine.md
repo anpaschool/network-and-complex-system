@@ -50,6 +50,9 @@ MATCH (pw:Pathway)-[:hasEvent]->(rx:Reaction) RETURN pw.name,count(rx.name),coll
 ```
 
 --------------------------------------
+![img](https://www.researchgate.net/profile/Zhe_Cheng4/publication/280631767/figure/fig1/AS:284601529454600@1444865700932/Annotating-the-central-dogma-of-molecular-biology-An-illustrated-version-of-the-central.png)
+
+------------------
 
 # Exploration at covidgraph.org
 
